@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045882688418",
+    "project_id": "foodsystem-c094c",
+    "storage_bucket": "foodsystem-c094c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045882688418:android:1e53de1b9c5263a8ffd8fb",
+        "android_client_info": {
+          "package_name": "com.example.foodie_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4MvcEAo7fdW8c9dzYeawxCz-D7pxlNWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045882688418:android:c7f7d2428315344affd8fb",
+        "android_client_info": {
+          "package_name": "com.foodsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4MvcEAo7fdW8c9dzYeawxCz-D7pxlNWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
